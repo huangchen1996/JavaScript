@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript写在Html中</title>
+</head>
+<body>
+<p>
+    JavaScript能够直接写入HTML输入流中
+</p>
+
+<script>
+    document.write("<h1>This is a heading</h1>");
+    document.write("<p>This is a paragraph</p>");
+</script>
+
+<p>
+    您只能在HTML输出流中使用<strong>document.write</strong>
+    如果您在文档加载后使用它(比如在函数中),会覆盖整个文档
+</p>
+
+</body>
+</html>
