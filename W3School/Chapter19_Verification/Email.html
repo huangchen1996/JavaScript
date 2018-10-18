@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function validate_email(field,alerttxt) {
+            with (field) 
+            {
+                apos=value.indexOf("@");
+                dotpos = value.lastIndexOf(".");
+                if (apos<1 || dotpos - apos<2)
+                {
+                    alert(alerttxt);
+                    return false
+                }else {return true}
+            }
+        }
+        
+        function vaildate_form(thisform)
+        {
+        with (thisform)     
+        {
+            if (vaildate_email(email,"Not a vaild email address!")==false)
+            {
+                email.focus();
+                return false
+            }
+        }
+        }
+    </script>
+</head>
+<body>
+    <form action="submitPage.htm" onsubmit="return validate_form(this)"
+</body>
+</html>
