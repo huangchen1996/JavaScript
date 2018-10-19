@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>从事件处理器调用一个函数</title>
+<script>
+    function changetext(id) {
+        id.innerHTML="哈哈";
+    }
+</script>
+</head>
+<body>
+<h1 onclick="changetext(this)">点击</h1>
+</body>
+</html>

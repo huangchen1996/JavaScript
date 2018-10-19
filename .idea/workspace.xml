@@ -2,81 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="ac41fda1-b786-4529-9976-036831d2c2b8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/Demo1_id.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/Demo2_Date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/Demo3_ChangeContent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/Demo4_Edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/Demo5_EditProperty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/Demo6_EditCss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/Demo6_onClick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter10_Function/Demo1_Function_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter10_Function/Demo2_Function_02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter10_Function/Demo3_Function3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter10_Function/Demo4_Function_04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter11_Operator/Demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter13_IfElse/Demo1_ifelse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter13_IfElse/Demo2_ifelseifelse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter17_Break/Demo1_iequals3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter17_Break/Demo2_ijump3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter17_Break/Demo3_Label.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter18_Error/Demo1_Try_Catch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter18_Error/MyFirstJavaScriptProgram.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter19_Verification/Demo_IsRequired.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter19_Verification/Email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter2_Intro/Demo1_JSinHtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter2_Intro/Demo2_onclick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter2_Intro/Demo3_ChangeHtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter2_Intro/Demo4_CloseOrOpenBulb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter2_Intro/Demo5_ChangeHtmlStyle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter2_Intro/Demo6_ValidationInput.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter3_JS_ComeTrue/Demo1_Body.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter3_JS_ComeTrue/Demo2_Head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter3_JS_ComeTrue/Demo3_body.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter3_JS_ComeTrue/Demo4_ReferringToExternalFiles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter5_JS_Statement/Demo1_Code.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter7_Variable/Demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter7_Variable/Demo2_DataType.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter7_Variable/Demo3_DeclareVariable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter7_Variable/Demo4_Count.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter8_DataType/Demo1_String.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter8_DataType/Demo2_Nmber.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter8_DataType/Demo3_Array.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter8_DataType/Demo4_Object.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter8_DataType/Demo5_UndefinedAndNull.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/Chapter8_DataType/Demo6_Duixiang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/chapter14_Switch/Demo1_Switch_day.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/chapter15_For/Demo1_for.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3School/chapter15_For/Demo2_for_FiveTimes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picture/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picture/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/picture/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo1_onclick.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo2_onclick.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo3_DocumentProperty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo4_incident.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo5_onchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo6_OnmouseoverAndOnmouseout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo7_OnmousedownOnmouseupOnclick.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo1_JSinHtml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo2_onclick.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo3_ChangeHtml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo4_CloseOrOpenBulb.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo5_ChangeHtmlStyle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo6_ValidationInput.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter2_JS_ComeTrue/Demo1_Body.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter2_JS_ComeTrue/Demo2_Head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter2_JS_ComeTrue/Demo3_body.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter2_JS_ComeTrue/Demo4_ReferringToExternalFiles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter3_JS_Statement/Demo1_Code.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter5_Variable/Demo1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter5_Variable/Demo2_DataType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter5_Variable/Demo3_DeclareVariable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter5_Variable/Demo4_Count.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter6_DataType/Demo1_String.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter6_DataType/Demo2_Nmber.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter6_DataType/Demo3_Array.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter6_DataType/Demo4_Object.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter6_DataType/Demo5_UndefinedAndNull.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Chapter6_DataType/Demo6_Duixiang.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Demo7_Function/Demo1_Function_01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Demo7_Function/Demo2_Function_02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Demo7_Function/Demo3_Function3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3School/Demo7_Function/Demo4_Function_04.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,29 +23,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Demo5_EditProperty.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSHTMLDOM/Demo5_EditProperty.html">
+      <file leaf-file-name="Demo4_incident.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo4_incident.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="375">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo6_EditCss.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSHTMLDOM/Demo6_EditCss.html">
+      <file leaf-file-name="Demo5_onchange.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo5_onchange.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="225">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo6_onClick.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JSHTMLDOM/Demo6_onClick.html">
+      <file leaf-file-name="Demo6_OnmouseoverAndOnmouseout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo6_OnmouseoverAndOnmouseout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="600">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo7_OnmousedownOnmouseupOnclick.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo7_OnmousedownOnmouseupOnclick.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo1_JSinHtml.html" />
-        <option value="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo2_onclick.html" />
-        <option value="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo3_ChangeHtml.html" />
         <option value="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo4_CloseOrOpenBulb.html" />
         <option value="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo5_ChangeHtmlStyle.html" />
         <option value="$PROJECT_DIR$/W3School/Chapter1_Intro/Demo6_ValidationInput.html" />
@@ -179,6 +124,13 @@
         <option value="$PROJECT_DIR$/JSHTMLDOM/Demo5_EditProperty.html" />
         <option value="$PROJECT_DIR$/JSHTMLDOM/Demo6_EditCss.html" />
         <option value="$PROJECT_DIR$/JSHTMLDOM/Demo6_onClick.html" />
+        <option value="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo1_onclick.html" />
+        <option value="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo2_onclick.html" />
+        <option value="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo3_DocumentProperty.html" />
+        <option value="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo4_incident.html" />
+        <option value="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo5_onchange.html" />
+        <option value="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo6_OnmouseoverAndOnmouseout.html" />
+        <option value="$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo7_OnmousedownOnmouseupOnclick.html" />
       </list>
     </option>
   </component>
@@ -191,7 +143,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -217,7 +169,24 @@
             <path>
               <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="JSHTMLDOM" type="462c0819:PsiDirectoryNode" />
+              <item name="DomDocument" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="picture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="W3School" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="W3School" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter19_Verification" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,26 +220,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Demo6_onClick.html">
-    <configuration name="Demo2_Date.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/Demo2_Date.html" />
-    <configuration name="Demo3_ChangeContent.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/Demo3_ChangeContent.html" />
-    <configuration name="Demo4_Edit.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/Demo4_Edit.html" />
-    <configuration name="Demo5_EditProperty.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/Demo5_EditProperty.html" />
+  <component name="RunManager" selected="JavaScript Debug.Demo6_OnmouseoverAndOnmouseout.html">
+    <configuration name="Demo1_onclick.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/DomDocument/Demo1_onclick.html" />
+    <configuration name="Demo2_onclick.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/DomDocument/Demo2_onclick.html" />
+    <configuration name="Demo3_DocumentProperty.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/DomDocument/Demo3_DocumentProperty.html" />
+    <configuration name="Demo6_OnmouseoverAndOnmouseout.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/JavaScript/JSHTMLDOM/DomDocument/Demo6_OnmouseoverAndOnmouseout.html" />
     <configuration name="Demo6_onClick.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/JSHTMLDOM/Demo6_onClick.html" />
     <list>
-      <item itemvalue="JavaScript Debug.Demo2_Date.html" />
-      <item itemvalue="JavaScript Debug.Demo3_ChangeContent.html" />
-      <item itemvalue="JavaScript Debug.Demo4_Edit.html" />
-      <item itemvalue="JavaScript Debug.Demo5_EditProperty.html" />
       <item itemvalue="JavaScript Debug.Demo6_onClick.html" />
+      <item itemvalue="JavaScript Debug.Demo1_onclick.html" />
+      <item itemvalue="JavaScript Debug.Demo2_onclick.html" />
+      <item itemvalue="JavaScript Debug.Demo3_DocumentProperty.html" />
+      <item itemvalue="JavaScript Debug.Demo6_OnmouseoverAndOnmouseout.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Demo6_OnmouseoverAndOnmouseout.html" />
+        <item itemvalue="JavaScript Debug.Demo3_DocumentProperty.html" />
+        <item itemvalue="JavaScript Debug.Demo2_onclick.html" />
+        <item itemvalue="JavaScript Debug.Demo1_onclick.html" />
         <item itemvalue="JavaScript Debug.Demo6_onClick.html" />
-        <item itemvalue="JavaScript Debug.Demo5_EditProperty.html" />
-        <item itemvalue="JavaScript Debug.Demo4_Edit.html" />
-        <item itemvalue="JavaScript Debug.Demo3_ChangeContent.html" />
-        <item itemvalue="JavaScript Debug.Demo2_Date.html" />
       </list>
     </recent_temporary>
   </component>
@@ -289,27 +258,27 @@
       <workItem from="1539598412437" duration="1263000" />
       <workItem from="1539649241689" duration="5795000" />
       <workItem from="1539737593346" duration="1544000" />
-      <workItem from="1539821190881" duration="10102000" />
+      <workItem from="1539821190881" duration="12942000" />
+      <workItem from="1539944711626" duration="2357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34973000" />
+    <option name="totallyTimeSpent" value="40170000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18255034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44649935" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -325,56 +294,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter10_Function/Demo4_Function_04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter10_Function/Demo1_Function_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter10_Function/Demo2_Function_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter10_Function/Demo3_Function3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter2_Intro/Demo1_JSinHtml.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter2_Intro/Demo3_ChangeHtml.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter2_Intro/Demo4_CloseOrOpenBulb.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/W3School/Chapter2_Intro/Demo2_onclick.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -601,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3School/Chapter19_Verification/Demo_IsRequired.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/W3School/Chapter19_Verification/Email.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -657,6 +575,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/Demo6_onClick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JSHTMLDOM/Demo6_EditCss.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -664,10 +589,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/Demo6_onClick.html">
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo1_onclick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo2_onclick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo3_DocumentProperty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3School/Chapter19_Verification/Demo_IsRequired.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo4_incident.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo5_onchange.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo6_OnmouseoverAndOnmouseout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSHTMLDOM/DomDocument/Demo7_OnmousedownOnmouseupOnclick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
